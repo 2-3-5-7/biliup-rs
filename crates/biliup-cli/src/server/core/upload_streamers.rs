@@ -69,7 +69,6 @@ impl StudioEntity {
             videos: vec![],
             desc_v2: None,
             dtime: self.dtime,
-            open_subtitle: false,
             interactive: self.interactive,
             mission_id: self.mission_id,
             dolby: self.dolby,
